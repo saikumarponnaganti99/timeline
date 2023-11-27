@@ -1,5 +1,5 @@
 /* Write your CSS here */
-import styled from 'styled-components/macro'
+import styled from 'styled-components'
 
 export const ProjectCardContainer = styled.div`
   width: 100%;
